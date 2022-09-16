@@ -1,0 +1,92 @@
+.img{        
+background-position: center center;      
+background-repeat: no-repeat;      
+background-attachment: fixed;      
+background-size: cover;      
+background-color: #E6E6FA; 
+}
+.textfirst{
+font-size: 30px;
+font-weight: bold;
+font-family: "Georgia" serif;
+color:#00BFFF;
+text-align:center;
+}
+ul.flex {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10;
+        margin: 10;
+        list-style: none;
+		flex-direction:column;
+		justify-content:center;
+    }
+a.flex {
+	
+        display: inline-block;
+        flex: 1 1 50px;
+        background: #191970;
+        max-width: 100px;
+        height: 20px;
+        margin: 10px;
+        line-height: 50px;
+        color: #FF00FF;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+		
+}
+.resume{
+border-style: solid;
+border-color: #EE82EE;
+border-width: 3px;	
+top: 10px;
+left: 10px;
+padding: 10px 100px 50px 20px;	
+}
+.textsecond{
+font-size: 15px;
+font-weight: bold;
+font-family: "Georgia" serif;
+color:#000000;	
+}
+.textthird{
+font-size: 12px;	
+font-family: "Georgia" serif;
+color:#000080;		
+}
+.textfourth{
+font-size: 9px;	
+font-family: "Georgia" serif;
+color:#000000;	
+}
+.foto{
+position: absolute;	
+top: 60px;
+left: 170px;
+height:100px;
+}
+.pictures{
+top: 800px;
+left: 20px;
+height:100px;	
+}
+.pictures2{
+top: 800px;
+left: 100px;
+height:100px;	
+}
+.certificate{
+top: 800px;
+left: 180px;
+height:100px;	
+}
+.ssilka5{
+border-style: solid;
+border-color: #191970;
+background:#191970;
+border-width: 5px;	
+top: 620px;
+left: 30px;
+padding: 5px 10px 5px 10px;
+}
